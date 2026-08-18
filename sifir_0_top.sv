@@ -19,7 +19,7 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-module fermi_0_top(
+module sifir_0_top(
     input logic         clk,
     input logic         rstn,
 
